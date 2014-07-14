@@ -20,6 +20,7 @@ GEM
     execjs (2.2.0)
     fast-stemmer (1.0.2)
     ffi (1.9.3)
+    ffi (1.9.3-x64-mingw32)
     fssm (0.2.10)
     haml (4.0.5)
       tilt
@@ -86,6 +87,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   RedCloth (~> 4.2.9)
